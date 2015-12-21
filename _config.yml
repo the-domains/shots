@@ -1,0 +1,28 @@
+name: shots
+favicon: null
+layout_spectrum: 0.49464952130801976
+typography_spectrum: 0.761436830740422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7269761299248785
+  lightness: 0.21710260771214962
+  saturation: 0.3084776783362031
+  rhythmicContrast: 0.7635429224465042
+purpose: []
